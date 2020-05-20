@@ -4,12 +4,11 @@ example_dict = {
     'key3': 10 + 23 * 9,
     'key4': bin(10),
     'key5': '',
-    'key6': 'value1',
-    'key7': 'value1',
-    'key8': 'value1',
-    'key9': 'value1',
+    'key6': 'value2',
+    'key7': 'value3',
+    'key8': 'value4',
+    'key9': 'value5',
 }
-
 
 print(example_dict['key1'], example_dict['key5'])
 
